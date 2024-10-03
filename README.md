@@ -1,44 +1,36 @@
 # OpenPress
 
-OpenPress is a truly open source and extensible competitor to WordPress, built with Laravel. Our mission is to provide a modern, agent-centric alternative to traditional content management systems, emphasizing openness, extensibility, and performance.
+OpenPress is an open-source, extensible WordPress competitor built with Laravel. We offer a modern, agent-centric alternative to traditional CMSs, focusing on openness and performance.
 
 ## Why OpenPress?
 
-- **Truly Open Source**: Unlike platforms controlled by a single person or company, OpenPress is committed to remaining genuinely open source, ensuring that the community drives its development and future.
-
-- **Modern Technology Stack**: Built on Laravel, OpenPress leverages a powerful, modern PHP framework, providing a solid foundation for extensibility and performance.
-
-- **Agent-Centric Approach**: Designed with a focus on integrating with AI agents and modern workflows, OpenPress aims to be at the forefront of the evolving digital landscape.
-
-- **Lightweight and Performant**: We're building OpenPress from the ground up, avoiding the bloat and technical debt that plagues older systems. Our goal is to create a streamlined, efficient platform that doesn't rely on a "plugin-packed house of cards."
-
-- **Easy Export and Portability**: Taking cues from modern platforms, we're committed to making it easy for users to export their content and code, ensuring that you're never locked into our ecosystem.
+- **Truly Open Source**: Community-driven development, not controlled by a single entity.
+- **Modern Stack**: Built on Laravel for extensibility and performance.
+- **Agent-Centric**: Designed for AI integration and modern workflows.
+- **Lightweight**: Avoiding bloat and technical debt for a streamlined platform.
+- **Portable**: Easy content and code export, preventing vendor lock-in.
 
 ## Our Vision
 
-OpenPress aims to harvest the best ideas from the WordPress ecosystem while avoiding its pitfalls. We're creating a platform that is:
+OpenPress aims to improve upon WordPress while avoiding its pitfalls:
 
-1. Easy to use for content creators
-2. Flexible for developers
+1. User-friendly for content creators
+2. Developer-flexible
 3. Performant and lightweight
-4. Truly open and community-driven
-5. Forward-thinking in its approach to AI and automation
-
-## Getting Started
-
-(Coming soon - instructions for setting up and using OpenPress)
+4. Community-driven
+5. AI and automation ready
 
 ## Contributing
 
-We welcome contributions from the community! Whether you're a developer, designer, or content creator, there are many ways to get involved. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
+We welcome community contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## License
 
-OpenPress is open-source software licensed under the [MIT license](LICENSE).
+OpenPress is open-source software licensed under [CC0](LICENSE).
 
 ## Stay Connected
 
-- Follow us on Twitter: [@OpenAgentsInc](https://twitter.com/OpenAgentsInc)
-- Join our community: (Coming soon)
+- Twitter: [@OpenAgentsInc](https://twitter.com/OpenAgentsInc)
+- Community: (Coming soon)
 
-Let's build the future of content management together!
+Join us in reshaping content management!
