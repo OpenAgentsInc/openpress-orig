@@ -20,10 +20,6 @@ OpenPress aims to improve upon WordPress while avoiding its pitfalls:
 4. Community-driven
 5. AI and automation ready
 
-## Contributing
-
-We welcome community contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ## License
 
 OpenPress is open-source software licensed under [CC0](LICENSE).
@@ -31,6 +27,5 @@ OpenPress is open-source software licensed under [CC0](LICENSE).
 ## Stay Connected
 
 - Twitter: [@OpenAgentsInc](https://twitter.com/OpenAgentsInc)
-- Community: (Coming soon)
 
 Join us in reshaping content management!
